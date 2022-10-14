@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+<name>
+    <firstname gender="male">Jhon</firstname>
+    <lastname>kennedy</lastname>
+</name>
+</person>
